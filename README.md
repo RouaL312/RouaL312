@@ -3,8 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <p align="center">
-  <a href="https://github.com/RouaL312">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Roua Laadouz" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Roua+Laadouz&color=f75c7e&vCenter=true&repeat=false" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
