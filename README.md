@@ -1,7 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1700FF&background=FF586B00&width=435&lines=Software+Developer+Engineer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FF586B00&width=435&lines=Software+Developer+Engineer)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FF586B00&width=435&lines=Software+Developer+Engineer" alt="Typing SVG" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
