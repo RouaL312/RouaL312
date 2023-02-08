@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://github.com/RouaL312/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Roua+Laadouz&color=f75c7e&vCenter=true&repeat=false&size=22" alt="Typing SVG" /></a>
+<a href="https://github.com/RouaL312/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Roua+Laadouz&color=f75c7e&vCenter=true&center=true&repeat=false&size=22" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
