@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Roua+Laadouz&color=f75c7e&vCenter=true&repeat=false" alt="Typing SVG" /></a>
+<a href="https://github.com/RouaL312/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Roua+Laadouz&color=f75c7e&vCenter=true&repeat=false&size=22" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -42,9 +41,7 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
@@ -84,3 +81,4 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-0078d7.svg?&logoColor=white"></a>
   </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312&hide_border=true&mode=weekly)](https://git.io/streak-stats)
