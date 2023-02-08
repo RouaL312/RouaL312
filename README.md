@@ -16,6 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312)](https://git.io/streak-stats)
 
 <br/>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -81,4 +82,3 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-0078d7.svg?&logoColor=white"></a>
   </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312)](https://git.io/streak-stats)
