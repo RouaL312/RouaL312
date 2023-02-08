@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5B0D&background=FF586B00&center=true&repeat=false&width=435&lines=Roua+Laadouz)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8A34&background=FF586B00&center=true&width=435&lines=Software+Developer+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5B0D&background=FF586B00&center=true&repeat=false&size=40&width=435&lines=Roua+Laadouz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8A34&background=FF586B00&size=40&center=true&width=435&lines=Software+Developer+Engineer)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
