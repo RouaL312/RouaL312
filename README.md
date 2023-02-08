@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312)](https://git.io/streak-stats)
 
 <p align="center">
 <a href="https://github.com/RouaL312/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Roua+Laadouz&color=f75c7e&vCenter=true&center=true&repeat=false&size=22" alt="Typing SVG" /></a>
@@ -16,7 +17,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=RouaL312)](https://git.io/streak-stats)
 
 <br/>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
